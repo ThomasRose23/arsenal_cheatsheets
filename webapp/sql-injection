@@ -14,3 +14,6 @@ sqlmap -u <protocol://domain/path>?<parameter=value>
 ```bash
 sqlmap -u <protocol://domain/path> --method POST --data <parameter=value&parameter=value> -p <target-parameters>
 ```
+
+
+
